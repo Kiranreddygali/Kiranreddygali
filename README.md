@@ -8,7 +8,9 @@ I’m a transformational leader specializing in **IT infrastructure**, **service
 
 # 🛤️ Career Timeline — Kiran Reddy Gali
 
-![Career Roadmap](https://github.com/Kiranreddygali/Kiranreddygali/blob/main/career-roadmap.png)
+<p align="center">
+  <img src="https://github.com/Kiranreddygali/Kiranreddygali/blob/main/career-roadmap.png" alt="Career Roadmap" width="600"/>
+</p>
 
 
 Dec 2007 – Jan 2013 | 🔹 Analyst, IT Ops @ HSBC → Supported Global Banking operations in a dynamic SOC–NOC environment → Developed expertise in real-time infrastructure support and service desk dynamics
