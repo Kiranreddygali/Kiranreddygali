@@ -8,7 +8,7 @@ I’m a transformational leader specializing in **IT infrastructure**, **service
 
 # 🛤️ Career Timeline — Kiran Reddy Gali
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Kiranreddygali/Kiranreddygali/blob/main/career-roadmap.png" alt="Career Roadmap" width="600"/>
 </p>
 
