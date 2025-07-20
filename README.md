@@ -31,7 +31,8 @@ I’m a transformational leader specializing in **IT infrastructure**, **service
 - Created custom **LMS training** and performance dashboards to drive adoption and accountability.
 - Improved **MTTR** and streamlined support processes across L1–L3 tiers.
 
-- <table>
+## 🎖️ Visual Impact Highlights
+ <table>
   <tr>
     <td><img src="https://img.shields.io/badge/0%25%20Attrition-Team%20Retention-blue?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/$2.5M%20Annual%20Savings-Insourcing%20Success-green?style=flat-square" /></td>
@@ -48,8 +49,6 @@ I’m a transformational leader specializing in **IT infrastructure**, **service
 
 This file showcases a curated list of certifications and continuing education programs completed by **Kiran Reddy Gali**, reflecting a strong commitment to professional growth, leadership mastery, and technical innovation.
 
----
-
 ## 🔐 Technology & Security Certifications
 
 - **Microsoft Certified** – Cloud solutions, AI services, infrastructure management  
@@ -57,15 +56,11 @@ This file showcases a curated list of certifications and continuing education pr
 - **Cybrary Programs** – Threat intelligence, vulnerability management, compliance frameworks  
 - **ServiceNow Training** – ITSM automation, platform architecture, analytics dashboards  
 
----
-
 ## 🎯 Project & Process Excellence
 
 - **Project Management Institute (PMI)** – Project planning, stakeholder management, Agile best practices  
 - **Six Sigma Green Belt** – Process improvement, data analytics, operational efficiency  
 - **Six Sigma Black Belt** – Advanced optimization strategies, statistical modeling, change leadership  
-
----
 
 ## 👥 Leadership, HR & DEI Mastery
 
@@ -77,8 +72,6 @@ This file showcases a curated list of certifications and continuing education pr
 - **Advanced Leadership Theory & Practice** – Dr. Haigh  
 - **DEI Certification** – Building inclusive and resilient cultures (via LinkedIn Learning)
 
----
-
 ## 🧠 Ongoing Learning
 
 - Completed 50+ courses on LinkedIn Learning across:
@@ -87,10 +80,7 @@ This file showcases a curated list of certifications and continuing education pr
   - Strategic communication and conflict resolution
   - Organizational culture and employee empowerment  
 
----
-
 These certifications span technology, leadership, operations, and culture—equipping me to lead transformation in cross-functional and multi-geography environments.
-
 
 ## 📌 Repository Purpose
 
