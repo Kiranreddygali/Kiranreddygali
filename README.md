@@ -35,6 +35,19 @@ Certified in:
 
 Studied across disciplines including DEI, advanced leadership theory, HR strategy, and cognitive automation.
 
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/0%25%20Attrition-Team%20Retention-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/$2.5M%20Annual%20Savings-Insourcing%20Success-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/40%25%20Faster%20Onboarding-AI%20Automation-purple?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Power%20BI-Service%20Dashboards-orange?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Global%20Office%20Setup-Hyderabad%20Launch-teal?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Leadership%20Certs-CIPD%20%7C%20PMI%20%7C%20Cybrary-red?style=flat-square" /></td>
+  </tr>
+</table>
+
 
 ## 📌 Repository Purpose
 
