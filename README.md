@@ -4,7 +4,10 @@ Welcome! This repository showcases the strategic impact, operational achievement
 
 ## 🌟 Executive Summary
 
-Transformational, Authentic & Servant leader specialized in **IT infrastructure**, **service delivery**, and **organizational excellence**. Through high-impact initiatives like Operations center creation, strategic insourcing, and AI-driven process automation, have delivered multimillion-dollar savings and built resilient, high-performing teams.
+Authentic, transformational, and servant leader with 17+ years of global IT experience, including as Country Manager at Tronox.
+Built and led Tronox’s India operations from the ground up-owning end-to-end infrastructure, application, and service delivery.
+Hired, managed, mentored, and retained high-performance IT teams across geographies, driving a culture of excellence and trust.
+Lifelong learner with a passion for innovation and operational efficiency, delivering multimillion-dollar savings through smart insourcing and automation.
 
 # 🛤️ Career Timeline - Kiran Reddy Gali
 
