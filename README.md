@@ -1,12 +1,12 @@
-# 🏆 Leadership Portfolio — Kiran Reddy Gali
+# 🏆 Leadership Portfolio - Kiran Reddy Gali
 
 Welcome! This repository showcases the strategic impact, operational achievements, and continuous learning journey of **Kiran Reddy Gali**, a Country Manager and IT Service Management Executive with 17+ years of global experience.
 
 ## 🌟 Executive Summary
 
-I’m a transformational leader specializing in **IT infrastructure**, **service delivery**, and **organizational excellence**. Through high-impact initiatives like support center creation, strategic insourcing, and AI-driven process automation, I've delivered multimillion-dollar savings and built resilient, high-performing teams.
+Transformational, Authentic & Servant leader specialized in **IT infrastructure**, **service delivery**, and **organizational excellence**. Through high-impact initiatives like Operations center creation, strategic insourcing, and AI-driven process automation, have delivered multimillion-dollar savings and built resilient, high-performing teams.
 
-# 🛤️ Career Timeline — Kiran Reddy Gali
+# 🛤️ Career Timeline - Kiran Reddy Gali
 
 <p align="left">
   <img src="https://github.com/Kiranreddygali/Kiranreddygali/blob/main/career-roadmap.png" alt="Career Roadmap" width="475"/>
@@ -75,12 +75,12 @@ This file showcases a curated list of certifications and continuing education pr
 ## 🧠 Ongoing Learning
 
 - Completed 50+ courses on LinkedIn Learning across:
-  - Cognitive AI and automation
-  - Emotional intelligence and team dynamics
-  - Strategic communication and conflict resolution
-  - Organizational culture and employee empowerment  
+- Cognitive AI and automation
+- Emotional intelligence and team dynamics
+- Strategic communication and conflict resolution
+- Organizational culture and employee empowerment  
 
-These certifications span technology, leadership, operations, and culture—equipping me to lead transformation in cross-functional and multi-geography environments.
+These certifications span technology, leadership, operations, and culture, equipping me to lead transformation in cross-functional and multi-geography environments.
 
 ## 📌 Repository Purpose
 
