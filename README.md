@@ -2,6 +2,10 @@
 
 Welcome! This repository showcases the strategic impact, operational achievements, and continuous learning journey of **Kiran Reddy Gali**, a Country Manager and IT Service Management Executive with 17+ years of global experience.
 
+<p align="left">
+  <img src="https://github.com/Kiranreddygali/Kiranreddygali/blob/main/My%20Banner.png" alt="Leadership Roadmap — Kiran Reddy Gali" width="475"/>
+</p>
+
 ## 🌟 Executive Summary
 
 Authentic, transformational, and servant leader with 17+ years of global IT experience, including as Country Manager at Tronox.
