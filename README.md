@@ -8,6 +8,8 @@ I’m a transformational leader specializing in **IT infrastructure**, **service
 
 # 🛤️ Career Timeline — Kiran Reddy Gali
 
+![Career Roadmap](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/career-roadmap.png)
+
 Dec 2007 – Jan 2013 | 🔹 Analyst, IT Ops @ HSBC → Supported Global Banking operations in a dynamic SOC–NOC environment → Developed expertise in real-time infrastructure support and service desk dynamics
 
 Mar 2013 – Dec 2014 | 🔹 IT Engineer @ Tronox → Delivered Level 2 technical support and incident management across critical operations → Managed onboarding/offboarding and user access provisioning (Active Directory, SAP, O365)
